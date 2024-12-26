@@ -1,0 +1,91 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: black;
+}
+div{
+    height:60px;
+    background-color:#0f1111;
+}
+#contantarea{
+    height:500px ;
+}
+.did{
+    height: 100px;
+    width: 100px;  
+    background-color:rgba(231, 27, 4, 0.7) ;
+    border:3px ridge black;
+    margin-bottom: 10px;
+    padding:5px;
+    overflow: hidden;
+}
+a{
+    margin-right:200px;
+}
+#ama{
+    color:#f08804;
+}
+button{
+    color:#f08804;
+}
+footer{
+    background-color:#0f1111;
+    color: white;
+    text-align:center;
+    height:50px;
+}
+#d2{
+    width:300px;
+    background-color: rgb(140, 233, 18) ;
+    border: 5px ridge black;
+    position: fixed;
+    
+}
+#d3{
+    width: 300px;
+    background-color: #b2f713;
+    border: 5px ridge black;
+    position:relative;
+    top:90px;
+    
+
+}
+#d4{
+    width: 300px;
+    background-color: rgba(96, 245, 77, 0.945);
+    border: 5px ridge black;
+    position:relative;
+    left: 1000px;
+}
+p{
+    margin-top: 100px;
+    font-size:large;
+    text-align: justify;
+}
+hr{
+    height:3px;
+}
+#love{
+    height:400px;
+    width: 500px;
+    background-image: url("nature-love.jpg");
+    background-size:cover;
+    position: relative;
+    left:500px;
+    box-shadow:1px 2px 4px 5px black
+}
+body{
+    text-align: justify;
+    font-style:italic ;
+}
+header{
+    height:70px;
+}
+a{
+    color: #f08804;
+    font-size:capitalize ;
+    margin-left:200px;
+}
+input{
+    margin-left: 200px;
+}
